@@ -1,7 +1,7 @@
 name: Awakened Heart Sangha
 favicon: null
-layout_spectrum: 0.2270479816943407
-typography_spectrum: 0.32909774081781507
+layout_spectrum: 0.90082
+typography_spectrum: 0.72987
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#fefefe'
+    - '#0e100d'
+    - '#177e4f'
+    - '#921328'
+    - '#8aaf2c'
   brandStrength: 0.30114920740015805
-  lightness: 0.6396506384480745
-  saturation: 0.7646182617172599
-  rhythmicContrast: 0.2460381535347551
+  lightness: 1
+  saturation: 0.5625
+  rhythmicContrast: 0
 purpose: []
